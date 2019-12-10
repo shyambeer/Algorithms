@@ -12,5 +12,5 @@ def pascalsTriangle(rows):
     return my_list
 
 
-rows = 5
+rows = 23
 print(pascalsTriangle(rows))
