@@ -15,5 +15,6 @@ def fib(n):
     return recur_fib(n)
 
 
+# 1,1,2,3,5,8,13,21,34
 n = 6
 print(fib(n))
